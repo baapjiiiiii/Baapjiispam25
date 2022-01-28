@@ -75,7 +75,7 @@ que = {}
 
 SMEX_USERS = [5046719296]
 for x in SUDO: 
-    SMEX_USERS.append(x)
+    SUDO_USERS.append(x)
     
 async def start_yukki():
     global idk
