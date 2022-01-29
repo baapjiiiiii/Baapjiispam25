@@ -796,7 +796,217 @@ async def gifspam(e, smex):
     except Exception as e:
         pass
 
+LUCIFER_PIC = "https://telegra.ph/file/a9b9faa68694df33962f6.png"
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
+async def start(event):
+    if event.sender_id in SMEX_USERS:
+     await idk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
 
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await ydk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await wdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await hdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await sdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await adk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await bdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await cdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await edk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await hdk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"                                
+                              )
+     await ddk.send_file(event.chat_id,
+                                  LUCIFER_PIC,
+                                  caption="YOᑌᖇ Տᑭᗩᗰ ᗷOT IՏ ᗩᒪIᐯᗴ
+
+   ᑭYTᕼOᑎ - { 3.0.0 }
+
+   TᗴᒪᗴTᕼOᑎ - { 1.0 }
+
+   ᑭᒪᑌᘜIᑎՏ - 8 Oᖴ 8
+
+   ᗪᗴᐯՏ - [ ᕼᗴᖇᗴ ](https://t.me/ZENETSU_OWNER)
+
+   ᖇᗴᑭO - [ ՏOOᑎ ]
+
+   ՏᑌᑭᑭOᖇT - [ ᕼᗴᖇᗴ ](https://t.me/TheGodsOP)
+
+   Oᗯᑎᗴᖇ - [ ᕼᗴᖇᗴ ](https://t.me/GodLuciferOp)\n"
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.join"))
@@ -1367,19 +1577,16 @@ async def _(e):
 @dav.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @raj.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @put.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!"
-        event = await e.reply(text, parse_mode=None, link_preview=None )
+        text = "Σ𝐂𝐇𝐄𝐂𝐊𝐈𝐍𝐆 𝐒𝐏𝐄𝐄𝐃㉺"
+        event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
-        ms = (end-start).microseconds / 1000
-        await event.edit(f"♡︎ ᑭOᑎᘜ !\n`{ms}` 𝗺𝘀\n   💥 ᖴIᑎᗩᒪ ՏTᖇIKᗴ Oᑭ 💦")
+        ms = (end - start).microseconds / 1000
+        await event.edit(f"𒅒𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀\n  ✡⚔𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓⚔✡")
 
-
-    
-        
+     
         
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
