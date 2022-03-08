@@ -18,5 +18,5 @@
 
 ## ⚡ ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKU
 
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baapjiiiiii/BaapjiispamBot)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baapjiiiiii/Baapjiispam25)
 
