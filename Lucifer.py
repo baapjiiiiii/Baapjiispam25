@@ -165,10 +165,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ANSHUL_LOGO"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ANSHUL_LOGO"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ANSHUL_LOGO"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ANSHUL_LOGO"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("JAA RHA GAAND MARNE 🤤🔥")
+                await event.edit("JAA RHA MA CHODNE 🤤🔥")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ⚔️ 🇧 🇦 🇦 🇵  🇯 🇮 🇮 Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = " ⚔ᴀNSHUL  Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1495,7 +1495,7 @@ CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL ʙᴀᴀᴘ ᴊɪɪ s�
 
 print(text)
 print("")
-print("YOᑌᖇ 🇧 🇦 🇦 🇵  🇯 🇮 🇮  Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
+print("YOᑌᖇ ANSHUL Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
