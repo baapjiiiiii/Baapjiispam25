@@ -1,6 +1,6 @@
-version: "4"
+version: "2.0"
 services:
-  Lucifer:
+  worker:
     build: .
     environment:
       API_ID: $API_ID
